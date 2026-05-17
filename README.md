@@ -81,7 +81,9 @@ Création d’un dashboard interactif avec :
 
 ##  Aperçu du dashboard
 
-*(Ajoute ici tes captures d’écran)*
+<img width="1167" height="658" alt="image" src="https://github.com/user-attachments/assets/8a0ef406-c4fe-45e7-a736-24439710d12d" />
+<img width="1167" height="651" alt="image" src="https://github.com/user-attachments/assets/2beabf69-af78-4671-ae7b-44aa8d5d9a78" />
+
 
 ---
 
